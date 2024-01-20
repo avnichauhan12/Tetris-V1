@@ -1,3 +1,4 @@
+User
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
@@ -36,4 +37,4 @@ ReactDOM.render(
         <Game tetris={tetris}/>
     </React.StrictMode>,
     document.getElementById('root')
-);
+)
